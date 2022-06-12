@@ -1,5 +1,6 @@
 This is a voice assistant for Windows that is designed for simplified PC control.
 This assistant supports the following functionality:
+
     To start working with Friday, you need to say "Friday" and wait for the answer "Yes",
     after which you should wait a couple of seconds and call the function we need
     
