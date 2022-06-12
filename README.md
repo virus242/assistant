@@ -1,12 +1,12 @@
 This is a voice assistant for Windows that is designed for simplified PC control.
 This assistant supports the following functionality:
-    1. Power on/reboot
-    to do this, you need to say turn off the pc
-    All you need to do is to restart your PC
-    
     To start working with Friday, you need to say "Friday" and wait for the answer "Yes",
     after which you should wait a couple of seconds and call the function we need
     
+    1. Power on/reboot
+    to do this, you need to say turn off the pc
+    All you need to do is to restart your PC
+   
     2. Find out the date
     for this you need to call Friday and say "the date is today"
     
